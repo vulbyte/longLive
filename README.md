@@ -1,5 +1,5 @@
 <!--
-SPDX-FileCopyrightText: 2018 yuzu Emulator Project
+SPDX-FileCopyrightText: 2018 muzu Emulator Project
 SPDX-License-Identifier: GPL-2.0-or-later
 -->
 <h3>To Nintendo Legal Team: You cannot defeat us, even if you take me down, more would come. If you taken them down as well, still more would come. You have lost this battle. </h3>
@@ -7,30 +7,30 @@ SPDX-License-Identifier: GPL-2.0-or-later
 <h4>This project DOES NOT suppot piracy, you are required to source your own games and keys, we make no money off this project (mainly so that Nintendon't sue us lol)</h4>
 
 
-<h4>This fork is to make sure Nintendo can't fuck over Yuzu. Long live emulation!</h4>
+<h4>This fork is to make sure Nintendo can't fuck over muzu. Long live emulation!</h4>
 
-This repo is created based on Yuzu EA 4176. Please contribute
+This repo is created based on muzu EA 4176. Please contribute
 
 <h1 align="center">
   <br>
-  <a href="https://yuzu-emu.org/"><img src="https://raw.githubusercontent.com/yuzu-emu/yuzu-assets/master/icons/icon.png" alt="yuzu" width="200"></a>
+  <a href="https://muzu-emu.org/"><img src="https://raw.githubusercontent.com/muzu-emu/muzu-assets/master/icons/icon.png" alt="muzu" width="200"></a>
   <br>
-  <b>yuzu</b>
+  <b>muzu</b>
   <br>
 </h1>
 
-<h4 align="center"><b>yuzu</b> is the world's most popular, open-source, Nintendo Switch emulator — started by the creators of <a href="https://citra-emu.org" target="_blank">Citra</a>.
+<h4 align="center"><b>muzu</b> is the world's most popular, open-source, Nintendo Switch emulator — started by the creators of <a href="https://citra-emu.org" target="_blank">Citra</a>.
 <br>
 It is written in C++ with portability in mind, and we actively maintain builds for Windows, Linux and Android.
 </h4>
 
 <p align="center">
-    <a href="https://dev.azure.com/yuzu-emu/yuzu/">
-        <img src="https://dev.azure.com/yuzu-emu/yuzu/_apis/build/status/yuzu%20mainline?branchName=master"
+    <a href="https://dev.azure.com/muzu-emu/muzu/">
+        <img src="https://dev.azure.com/muzu-emu/muzu/_apis/build/status/muzu%20mainline?branchName=master"
             alt="Azure Mainline CI Build Status">
     </a>
     <a href="https://discord.com/invite/u77vRWY">
-        <img src="https://img.shields.io/discord/398318088170242053?color=5865F2&label=yuzu&logo=discord&logoColor=white"
+        <img src="https://img.shields.io/discord/398318088170242053?color=5865F2&label=muzu&logo=discord&logoColor=white"
             alt="Discord">
     </a>
 </p>
@@ -46,11 +46,11 @@ It is written in C++ with portability in mind, and we actively maintain builds f
 
 ## Compatibility
 
-The emulator is capable of running most commercial games at full speed, provided you meet the [necessary hardware requirements](https://yuzu-emu.org/help/quickstart/#hardware-requirements).
+The emulator is capable of running most commercial games at full speed, provided you meet the [necessary hardware requirements](https://muzu-emu.org/help/quickstart/#hardware-requirements).
 
-For a full list of games yuzu supports, please visit our [Compatibility page](https://yuzu-emu.org/game/).
+For a full list of games muzu supports, please visit our [Compatibility page](https://muzu-emu.org/game/).
 
-Check out our [website](https://yuzu-emu.org/) for the latest news on exciting features, monthly progress reports, and more!
+Check out our [website](https://muzu-emu.org/) for the latest news on exciting features, monthly progress reports, and more!
 
 ## Development
 
@@ -58,15 +58,15 @@ This project is completely free and open source, this project is made possible b
 
 Most of the development happens on GitHub. For development discussion, please join us on [Discord](https://discord.gg/2gQRBp44KT).
 
-If you want to contribute, please take a look at the [Contributor's Guide](https://github.com/yuzu-emu/yuzu/wiki/Contributing) and [Developer Information](https://github.com/yuzu-emu/yuzu/wiki/Developer-Information).
+If you want to contribute, please take a look at the [Contributor's Guide](https://github.com/muzu-emu/muzu/wiki/Contributing) and [Developer Information](https://github.com/muzu-emu/muzu/wiki/Developer-Information).
 You can also contact any of the developers on Discord in order to know about the current state of the emulator.
 
-If you want to contribute to the user interface translation project, please check out the [yuzu project on transifex](https://www.transifex.com/yuzu-emulator/yuzu). We centralize translation work there, and periodically upstream translations.
+If you want to contribute to the user interface translation project, please check out the [muzu project on transifex](https://www.transifex.com/muzu-emulator/muzu). We centralize translation work there, and periodically upstream translations.
 
 ## Building
 
-* __Windows__: [Windows Build](https://github.com/yuzu-emu/yuzu/wiki/Building-For-Windows)
-* __Linux__: [Linux Build](https://github.com/yuzu-emu/yuzu/wiki/Building-For-Linux)
+* __Windows__: [Windows Build](https://github.com/muzu-emu/muzu/wiki/Building-For-Windows)
+* __Linux__: [Linux Build](https://github.com/muzu-emu/muzu/wiki/Building-For-Linux)
 
 
 
@@ -77,4 +77,4 @@ This project is completely free and open source, this project is made possible b
 
 ## License
 
-yuzu vanced is licensed under the MIT license. Refer to the [LICENSE.txt](https://github.com/yuzu-emu/yuzu/blob/master/LICENSE.txt) file.
+muzu vanced is licensed under the MIT license. Refer to the [LICENSE.txt](https://github.com/muzu-emu/muzu/blob/master/LICENSE.txt) file.
