@@ -2,14 +2,7 @@
 SPDX-FileCopyrightText: 2018 muzu Emulator Project
 SPDX-License-Identifier: GPL-2.0-or-later
 -->
-<h3>To Nintendo Legal Team: You cannot defeat us, even if you take me down, more would come. If you taken them down as well, still more would come. You have lost this battle. </h3>
-
-<h4>This project DOES NOT suppot piracy, you are required to source your own games and keys, we make no money off this project (mainly so that Nintendon't sue us lol)</h4>
-
-
-<h4>This fork is to make sure Nintendo can't fuck over muzu. Long live emulation!</h4>
-
-This repo is created based on muzu EA 4176. Please contribute
+<h4>This project DOES NOT suppot piracy, you are required to source your own games and keys, we make no money off this project</h4>
 
 <h1 align="center">
   <br>
