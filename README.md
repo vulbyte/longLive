@@ -8,6 +8,9 @@ SPDX-License-Identifier: GPL-2.0-or-later
 
 
 <h4>This fork is to make sure Nintendo can't fuck over Yuzu. Long live emulation!</h4>
+
+This repo is created based on Yuzu EA 4176. Please contribute
+
 <h1 align="center">
   <br>
   <a href="https://yuzu-emu.org/"><img src="https://raw.githubusercontent.com/yuzu-emu/yuzu-assets/master/icons/icon.png" alt="yuzu" width="200"></a>
