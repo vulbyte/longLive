@@ -46,7 +46,9 @@ Check out our [website](https://yuzu-emu.org/) for the latest news on exciting f
 
 ## Development
 
-Most of the development happens on GitHub. It's also where [our central repository](https://github.com/yuzu-emu/yuzu) is hosted. For development discussion, please join us on [Discord](https://discord.com/invite/u77vRWY).
+This project is completely free and open source, this project is made possible by many people who share the same interest.
+
+Most of the development happens on GitHub. For development discussion, please join us on [Discord](https://discord.gg/2gQRBp44KT).
 
 If you want to contribute, please take a look at the [Contributor's Guide](https://github.com/yuzu-emu/yuzu/wiki/Contributing) and [Developer Information](https://github.com/yuzu-emu/yuzu/wiki/Developer-Information).
 You can also contact any of the developers on Discord in order to know about the current state of the emulator.
@@ -62,7 +64,7 @@ If you want to contribute to the user interface translation project, please chec
 
 ## Support
 
-This project is completely free and open source, this project is made possible by many people who share the same interest.
+This project is completely free and open source, this project is made possible by many people who share the same interest. Please join the discord server to contribute.
 
 
 ## License
